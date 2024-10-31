@@ -29,7 +29,7 @@ public class MainActivity extends AppCompatActivity {
                 startActivity(intent);
             }
         });
-//테스트123
+//테스트123456
         btn2 = findViewById(R.id.btnMine); // 지뢰찾기이동버튼
         btn2.setOnClickListener(new View.OnClickListener() {
             @Override
